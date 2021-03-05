@@ -1,0 +1,15 @@
+C:\Users\RedAx\source\repos\CalendarTesting\CalendarTesting\obj\Debug\CalendarTesting.csprojAssemblyReference.cache
+C:\Users\RedAx\source\repos\CalendarTesting\CalendarTesting\obj\Debug\MainWindow.g.cs
+C:\Users\RedAx\source\repos\CalendarTesting\CalendarTesting\obj\Debug\App.g.cs
+C:\Users\RedAx\source\repos\CalendarTesting\CalendarTesting\obj\Debug\CalendarTesting_MarkupCompile.cache
+C:\Users\RedAx\source\repos\CalendarTesting\CalendarTesting\obj\Debug\CalendarTesting_MarkupCompile.lref
+C:\Users\RedAx\source\repos\CalendarTesting\CalendarTesting\bin\Debug\CalendarTesting.exe.config
+C:\Users\RedAx\source\repos\CalendarTesting\CalendarTesting\bin\Debug\CalendarTesting.exe
+C:\Users\RedAx\source\repos\CalendarTesting\CalendarTesting\bin\Debug\CalendarTesting.pdb
+C:\Users\RedAx\source\repos\CalendarTesting\CalendarTesting\obj\Debug\MainWindow.baml
+C:\Users\RedAx\source\repos\CalendarTesting\CalendarTesting\obj\Debug\CalendarTesting.g.resources
+C:\Users\RedAx\source\repos\CalendarTesting\CalendarTesting\obj\Debug\CalendarTesting.Properties.Resources.resources
+C:\Users\RedAx\source\repos\CalendarTesting\CalendarTesting\obj\Debug\CalendarTesting.csproj.GenerateResource.cache
+C:\Users\RedAx\source\repos\CalendarTesting\CalendarTesting\obj\Debug\CalendarTesting.csproj.CoreCompileInputs.cache
+C:\Users\RedAx\source\repos\CalendarTesting\CalendarTesting\obj\Debug\CalendarTesting.exe
+C:\Users\RedAx\source\repos\CalendarTesting\CalendarTesting\obj\Debug\CalendarTesting.pdb
